@@ -40,9 +40,9 @@
 # print(greeting)
 
 
-def greet_person(name,greeting="Hello"):
-    message=f"{greeting},{name}"
-    return message
-
-print(greet_person("Alice"))
-print(greet_person(name:"Bob, greeting:"Hi))
+# def greet_person(name,greeting="Hello"):
+#     message=f"{greeting},{name}"
+#     return message
+#
+# print(greet_person("Alice"))
+# print(greet_person(name:"Bob, greeting:"Hi))
